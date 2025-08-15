@@ -22,6 +22,10 @@ To run the solution:
 
 The solution may require various Python packages for quantitative analysis. Please refer to the notebook for specific import statements and dependencies.
 
+## Important Note
+
+**Note:** During the simulation, I do not have access to the Amplify Libraries or the actual datasets that would be used in a real assessment environment. The solution is based on the problem description and my understanding of the requirements.
+
 ---
 
-*This repository represents my work on the Millenium quant trader assessment.*
+_This repository represents my work on the Millenium quant trader assessment._
